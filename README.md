@@ -1,4 +1,4 @@
-#Sustainable Smart City Assistant using IBM Granite LLM
+Sustainable Smart City Assistant using IBM Granite LLM
 
 📘 Overview
 The Sustainable Smart City Assistant is an AI-powered application designed to support smart city development and sustainability initiatives using IBM’s Granite Large Language Model (LLM). This assistant can answer urban planning questions, suggest eco-friendly solutions, analyze environmental issues, and provide intelligent insights—all through natural language interaction.
